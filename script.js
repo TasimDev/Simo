@@ -9,7 +9,8 @@ window.addEventListener('load', () => {
         y: '100%',
         duration: 1,
         ease: 'sine',
-        delay: 2
+        delay: 2,
+
     })
     gsap.to('.loader .title', {
         scale: 1,

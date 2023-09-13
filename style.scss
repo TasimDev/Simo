@@ -112,7 +112,7 @@ a {
     justify-content: center;
     font-family: 'Poppins', sans-serif;
 
- 
+
 
     img {
         border-radius: 50%;
@@ -165,6 +165,10 @@ nav {
         display: flex;
         gap: 2rem;
         font-size: 1.6rem;
+
+        @media (max-width: 500px) {
+            gap: 1rem;
+        }
 
         a {
             width: 100%;

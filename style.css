@@ -99,12 +99,6 @@ a {
   justify-content: center;
   font-family: "Poppins", sans-serif;
 }
-@media screen and (max-width: 500px) {
-  .logo-me {
-    width: 100px;
-    height: 100px;
-  }
-}
 .logo-me img {
   border-radius: 50%;
   width: 6em;

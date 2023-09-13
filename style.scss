@@ -112,10 +112,7 @@ a {
     justify-content: center;
     font-family: 'Poppins', sans-serif;
 
-    @media screen and (max-width: 500px) {
-        width: 100px;
-        height: 100px;
-    }
+ 
 
     img {
         border-radius: 50%;
